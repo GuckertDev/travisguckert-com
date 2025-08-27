@@ -4,13 +4,13 @@ The official source code for my personal website and digital hub.
 
 This repository serves as the central hub for my projects, professional and personal information, and educational content about my affiliated organizations.
 
-## 🚀 Live Demo
+## 🚀&nbsp; Live Demo
 
 [Visit the website](https://travisguckert.com)
 
 ---
 
-## ✨ Key Features
+## ✨&nbsp; Key Features 
 
 * **Responsive Design:** Optimized for seamless viewing across all devices.
 * **Projects Showcase:** A curated portfolio of my personal and professional work.
@@ -20,7 +20,7 @@ This repository serves as the central hub for my projects, professional and pers
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️&nbsp; Technology Stack
 
 This website is built using modern, industry-standard technologies.
 
@@ -30,7 +30,7 @@ This website is built using modern, industry-standard technologies.
 
 ---
 
-## ⚙️ Getting Started
+## ⚙️&nbsp; Getting Started
 
 Follow these steps to get a local copy of the project running on your machine.
 
@@ -48,18 +48,25 @@ You only need a web browser and a code editor.
     ```bash
     cd travisguckert-com
     ```
-3.  Open `index.html` in your browser to view the site.
 
 ---
 
-## 🤝 Contributing
+## 🤝&nbsp; Contributing
 
 This is a personal project, but I welcome suggestions and feedback. Feel free to open an issue or submit a pull request.
 
 ---
-
+<br>
 <p align="center">
-  <img alt="Website" src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white">
-  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white">
+  <a href="https://github.com/GuckertDev" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/white" height="35" width="35" alt="GitHub Profile">‎
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.snapchat.com/@guckerttravis" target="_blank">
+    <img src="https://cdn.simpleicons.org/snapchat/fffc00" height="35" width="35" alt="Snapchat Profile">‎ 
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/GuckertTravis" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/white" height="35" width="35" alt="X Profile">
+  </a>
 </p>
